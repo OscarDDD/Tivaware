@@ -1,0 +1,1 @@
+"./ADC.obj" "./GPIO.obj" "./System.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uartstdio.obj" "G:/Gruppe_2_010/libs/ADC_Class_Lib.lib" "G:/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
